@@ -7,7 +7,7 @@ This project uses the pretrained POSENET model to dynamically change the font si
 Check out the live demo here:  
 [Live Demo](https://your-live-demo-link.com)
 
-![Font Manipulator in Action](./path-to-image.png)
+
 
 ## Features
 - Real-time wrist tracking using the pretrained POSENET model.
