@@ -4,7 +4,7 @@
 This project uses the pretrained POSENET model to dynamically change the font size on a webpage based on the distance between a user's wrists. The POSENET model is used for real-time pose estimation to track the wrist positions, and as the distance between the wrists increases or decreases, the font size is adjusted accordingly.
 
 ## Demo
-![Font Manipulator in Action](./path-to-gif.gif)
+![Font Manipulator in Action](gif/fmanipulator.gif)
 
 
 
